@@ -96,16 +96,18 @@ function App() {
           <h1 id="heroTitle">
             {birthdayReached ? (
               <>
-                Happy Birthday <span className="highlight">[Name]</span> 🎂
+                Happy Birthday <span className="highlight">Nancy</span> 🎂
               </>
             ) : (
               <>
-                Counting down to <span className="highlight">[Name]'s</span>{" "}
+                Counting down to <span className="highlight">Nancy's</span>{" "}
                 special day 🎂
               </>
             )}
           </h1>
-          <p>Your personalized message goes here 💗</p>
+          <p>Hey Birthday Girl 🎂👑
+Yes, this whole website is for you!
+Because someone as special as Nancy deserves something special 💗</p>
         </section>
 
         <Countdown
@@ -170,8 +172,11 @@ function App() {
         </button>
         <Gallery isActive={currentPage === 4} />
         <section className="final">
-          <h2 className="final-message">💖 Forever Yours — [Your Name] 💖</h2>
-          <p className="final-subtitle">Your personalized closing message ✨</p>
+          <h2 className="final-message">💖 Forever Yours — Sahil 💖</h2>
+          <p className="final-subtitle">This is not just a birthday celebration…
+It’s a reminder that you are the best thing that ever happened to me.
+I don’t just want to celebrate your birthdays —
+I want to celebrate every year of life with you. ❤️✨</p>
         </section>
       </div>
 
