@@ -176,7 +176,8 @@ Because someone as special as Nancy deserves something special 💗</p>
           <p className="final-subtitle">This is not just a birthday celebration…
 It’s a reminder that you are the best thing that ever happened to me.
 I don’t just want to celebrate your birthdays —
-I want to celebrate every year of life with you. ❤️✨</p>
+I want to celebrate every year of life with you. ❤️✨
+          And if you see some empty space left for photos… that’s not by mistake. That space is reserved for our upcoming memories, future adventures, and countless beautiful moments we’re yet to create together. 📸💞</p>
         </section>
       </div>
 
